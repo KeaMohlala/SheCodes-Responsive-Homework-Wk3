@@ -97,3 +97,9 @@ p {
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
+@media (max-width: 576px) {
+  h1 {
+    text-align: center;
+    font-size: 60px;
+  }
+}
